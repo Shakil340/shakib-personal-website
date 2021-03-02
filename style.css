@@ -352,6 +352,10 @@ ul.social-link span {
     border: 0px;
     outline: 0;
 }
+.port-slider button{
+    border: 0px;
+    outline: 0;
+}
 ul.slick-dots {
     position: absolute;
     left: 50%;
@@ -541,6 +545,9 @@ body .all-body{
     color: #6a6f8c;
     background: #c8c8c8;
     font: 600 16px/18px 'Open Sans', sans-serif
+}
+.login-snip label{
+    color: #a79f9f;
 }
 
 .login-box {
@@ -963,4 +970,10 @@ span.drag-icon {
     font-size: 50px;
     top: 35%;
     transform: translate(-50%, -50%);
+}
+
+.hr-custom{
+
+    margin: 41px 0 9px 0;
+
 }
